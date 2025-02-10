@@ -63,7 +63,7 @@ python main.py
 3. Ensure the correct COM port is used in `main.py`.
 
 ## 📸 Demo
-![Screenshot 2024-11-28 201235](https://github.com/user-attachments/assets/e753bafd-2e1d-49d9-a0e4-33b50c2be6d5)
+
 ![Screenshot 2024-11-24 224407](https://github.com/user-attachments/assets/ac2ed98b-8ab2-47a8-a99c-e66b138052fd)
 
 
